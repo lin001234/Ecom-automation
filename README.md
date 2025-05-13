@@ -1,2 +1,2 @@
-# Ecom_automation
+# Ecommerce automation
 E commerce automation for simple management
